@@ -2,7 +2,7 @@
 
 I build things, mostly backend, sometimes the whole thing. Based in Amsterdam.
 
-🔭 Currently building a Spring Boot project and a few side projects
+🧳 Building a travel planner app: visual trip planning with maps, day plans and AI suggestions
 🛠️ Most at home with systems that need to stay up
 🎯 Always have a new idea I should probably be finishing instead
 
